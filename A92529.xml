@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ansvver of the Estates of Parliament of the kingdom of Scotland to His Majesties most gracious letter direct to them.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92529</idno><idno type="EEBO-CITATION">99899458</idno>
+  <idno type="VID">153547</idno>
+  <idno type="EEBO-PROQUEST">2248524961</idno>
+  
+            <idno type="STC">Wing S1182A</idno>
+            <idno type="STC">ESTC R230202</idno>
+            <idno type="PROQUEST">99899458</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899458e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92529)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153547)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2370:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ansvver of the Estates of Parliament of the kingdom of Scotland to His Majesties most gracious letter direct to them.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to Their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>anno Dom. 1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1689-1745 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:153547:1"/>
+            <head>THE ANSWER Of the Estates of PARLIAMENT of the Kingdom of <hi>Scotland,</hi> to His <hi>Majesties</hi> most Gracious Letter di<g ref="char:EOLhyphen"/>rect to them.</head>
+            <opener>
+               <salute>May it please Your Majesty.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E Your Majesties most Loyal and Dutiful Subjects, the Lords and Commissioners of Shyres and Burrows, in Parliament Assembled, Do Return Your Majesty our most Hearty and Humble Thanks, for the Fatherly Care You are Pleased to express in Your Gracious Letter, of the Concerns of this Your antient Kingdom, particular<g ref="char:EOLhyphen"/>ly for giving us the Hopes, (which we with all Duty lay hold on,) that we shall have the Honour of Your Majesties Presence amongst us, as soon as that can be. We are fully perswaded, that as we owe all the Happiness of the State we are in, to Your Majesties coming into <hi>Britain,</hi> so we can only owe to Your Majesties being in Person amongst us, the Finishing and intire Settlement of it.</p>
+            <p>In the mean While, we humbly Acknowledge Your Majesties Goodness, in Calling us together so Seasonably, and with so Gracious a Confidence, even in Your Absence from <hi>Britain,</hi> when the putting of this Nation in a good Posture of Defence, is so necessary for the Security of it, and for quieting the Minds of all Your Majesties good Subjects, who cannot yet calmly reflect on the Posture it was in the last Spring, during the Apprehensions of an Invasion then. Sir, we hope Things will show, that nothing could have happened more for Your Ma<g ref="char:EOLhyphen"/>jesties Service, and the good of Your People, and more Acceptable to all good Men, than the Meeting of Your Parliament at this time.</p>
+            <p>We are sensible of the good Choise, Your Majesty has made of the Duke of <hi>Hamiltoun</hi> to be Your Commissioner, whose Capacity, Faithfulness, and Zeal, in managing upon such Occasions, the common Interests of Your Majesty, and Your People, are from frequent and good Experience, well known to both: and we are resolved to concur with him, in doing what ever shall be found necessary to be done at this time, for securing the Peace and Quiet of this Kingdom, and for Calming or Removing those Differences about Church-matters, that Raise or Intertain Heats and Animosities amongst us, we doubt not but to fall on such Methods, as will Conduce to Peace and Union, and put an end to the vain Hopes, as well as the Practices of bad Men, whether at Home Or Abroad: and we shall endeavour to Conclude, with that Calmness and Dispatch Your Majesty Re<g ref="char:EOLhyphen"/>quires; a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we hope, by our Proceedings upon this and all other Occasions, to e<g ref="char:EOLhyphen"/>vidence to th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> World, as we have hitherto done, how much we Your Majesties most Loyal Parliament are perswaded, that next to the Favour of God Almighty, the Safety and Happiness of this Kingdom, depends wholly upon the Stability of the present Settlement; and to convince all Men, how deeply sensible we are, of the great Duty we owe to Your Majesty as our Deliverer, as well as our Dread Soveraign.</p>
+            <pb n="2" facs="tcp:153547:2"/>
+            <p>
+               <hi>Sir,</hi>
+               <lb/> It remains, that we add our Prayers to God Almighty, to bless your Majesty and the Queen, with a long and happy Reign, and in particular, to preserve Your Majesties Person from the Accidents of War, and the Machinations of Your Ene<g ref="char:EOLhyphen"/>mies, and to continue to prosper You in Your Endeavours, to deliver from Dan<g ref="char:EOLhyphen"/>ger this Nation, and these other parts of Europe, which You have saved from Ruine. Signed by Warrand, and in Name of the Estates of Parliament, by</p>
+            <closer>
+               <salute>May it please your Majesty,</salute>
+               <signed>Your Majesties most Humble, most Faithful, and most obedient Sub<g ref="char:EOLhyphen"/>ject and Servant, <hi>TWEEDDALE</hi> Cancel. <hi>I.P.D. Parl.</hi>
+               </signed>
+               <dateline>Edinburgh, <date>April 21 1693.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:153547:3"/>
+            <head>His Majesties Gracious RETURN TO VVILLIAM DUKE OF <hi>Hamilton,</hi> Their Majesties High Commissioner.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+               <lb/>
+               <salute>
+                  <seg rend="decorInit">R</seg>Ight Trusty and Right Entirely Beloved Cousin and Counsellor, We Greet you Well.</salute>
+            </opener>
+            <p>We have received a Letter from Our Par<g ref="char:EOLhyphen"/>liament of that Our antient Kingdom, bearing date the One and Twentieth day of <hi>April</hi> last, and are well Satisfied with the Ex<g ref="char:EOLhyphen"/>pressions of Loyalty and Duty to Us therein, which We Require you to signifie to them, with Our gracious Acceptance thereof. And as by the former Proofs We have had of your Fidelity, We are well assured of your ut<g ref="char:EOLhyphen"/>most Application and Vigilancy, for Our Service, and the Publick Good, not only as Our Commissioner to Our Parliament, but likewise in your other Capaci<g ref="char:EOLhyphen"/>ties and Employments, during Our Absence from <hi>Britain:</hi> So We are glade to find Our Parliament is no less convinced than We, of your Zeal and Fitness for the discharge of the Trusts reposed in you; and We doubt not but they will continue, as they have begun, to Concur with you, in doing what-ever shall be found necessary to be done in this Juncture (so far as time will Permit) for se<g ref="char:EOLhyphen"/>curing the Peace and Quiet of that Kingdom, not only in its Civil, but likewise in its Religious Concerns.</p>
+            <p>We likewise Desire our Parliament may be Acquainted with Our Satisfa<g ref="char:EOLhyphen"/>ction with their grateful Sense of Our tender Care and Concern for that Our antient Kingdom, which by you We do Assure them hath been, and still shall be such, that as hitherto We have left nothing Undone that might Contribute to the making of it Happy; So We shall never be a-weary of so good a Work. And Lastly, We Desire they may go on (as We doubt not but hitherto they have done) with that Calmness and Moderation which be<g ref="char:EOLhyphen"/>comes, which will be no less pleasing to Us, then it will be for their own Advan<g ref="char:EOLhyphen"/>tage and R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>putation, and which will indeed be a singular Mean to frustrate the
+<pb n="4" facs="tcp:153547:4"/> vain Hopes, as well as elude the pernitious Practices, of bad Men, Our and their Enemies; And that upon the whole, their Mannagement may be such, as We shall have no reason to Repent of Our Calling them together at this time, but that every step of their Proceedings may contribute to make this a happy Session. And so We bid you heartily Farewel.</p>
+            <closer>
+               <dateline>Given at Our Court at <hi>Breda,</hi>
+                  <date>the Twelfth day of <hi>May</hi> 1693. And of Our Reign the Fifth year.</date>
+               </dateline>
+            </closer>
+            <trailer>
+               <hi>Directed thus,</hi> To Our Right Trusty and Right Entirely Beloved Cousin and Counsellor, <hi>William</hi> Duke of <hi>Hamilton</hi> Our Commissioner to Our Parliament of Our Antient Kingdom of <hi>Scotland,</hi> Met at <hi>Edinburgh.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBURGH,</hi> Printed by the Heir of <hi>Andrew Anderson,</hi> Printer to Their most Excellent Majesties, <hi>Anno DOM.</hi> 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
